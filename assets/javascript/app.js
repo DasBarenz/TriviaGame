@@ -3,7 +3,7 @@ var incorrectCount = 0;
 var userGuess = "";
 var questionCount = 0;
 // timer
-var seconds = 5; //CHANGE THIS BACK to 20 to SUBMIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+var seconds = 15; 
 var intervalId;
 
 function run() {
